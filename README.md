@@ -4,10 +4,10 @@ I am a Junior Backend Developer & University Student studying Software Engineeri
 Currently I am researching more about the languages Rust, Go & Zig, as well as Cryptograhy and TLS & SSL protocols. I have also taken an interest in and am learning about cloud and edge computing.
 
 # GitHub Stats:
-![](https://visitcount.itsvg.in/api?id=concelaredev&icon=0&color=4)<br/>
-![](https://github-readme-stats.vercel.app/api?username=concelaredev&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=concelaredev&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=concelaredev&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://visitcount.itsvg.in/api?id=concelare&icon=0&color=4)<br/>
+![](https://github-readme-stats.vercel.app/api?username=concelare&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=concelare&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=concelare&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 # Tech Stack:
 ## Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
